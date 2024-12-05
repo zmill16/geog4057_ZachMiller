@@ -1,0 +1,8 @@
+Zach Miller
+GEOG 4057
+12 - 5 - 2024
+Final Project Report
+In this certain code for this project it is about creating a shapefile for the given data.
+The main parts of the code are to create a toolbox which includes 3 main parts. The Input, Output, and Workspace.
+To use the code you need a input file (JSON) then you need to name the output and finally select the workspace. AFter doing this you should be able to run the script.
+The code was developed using techniques we've learned throughout the semester.
